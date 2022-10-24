@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34203239056",
+    "firebase_url": "https://chat-app-xarala-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-xarala",
+    "storage_bucket": "chat-app-xarala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34203239056:android:aa45bd062b294f5eb38e15",
+        "android_client_info": {
+          "package_name": "com.example.chatxarala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34203239056-e2d52nbb2k5ghjn74vue7d0rkp70h51c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatxarala",
+            "certificate_hash": "91e4d663ef03903ade00ad1db93b75f7d42153cf"
+          }
+        },
+        {
+          "client_id": "34203239056-vi8v701dhqrho72eo4fkm03e00lmrcuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahwzPPHTVVC4b9-cmQVV7LEHbLJn44pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34203239056-vi8v701dhqrho72eo4fkm03e00lmrcuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
